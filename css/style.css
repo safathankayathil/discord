@@ -390,6 +390,9 @@ nav label.bars{
   #menu .spotlight .content p {
     font-size: 13px;
   }
+  #main .wrapper .container .right .founds .found {
+    border: 1px solid gray;
+  }
 }
 @media (max-width: 480px) {
   .checkbtn {
